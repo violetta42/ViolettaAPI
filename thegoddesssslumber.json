@@ -1,0 +1,581 @@
+{
+  "version": 1,
+  "codes": [
+    {
+      "hash": "5462c02b98777fd63fb4e8be8254ad22a9bea77a0081471f238cb4e26f3104d2",
+      "title": {
+        "ru": "Подарок к выходу игры",
+        "en": "Release gift"
+      },
+      "start": "",
+      "expires": "",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 500
+        },
+        {
+          "type": "item",
+          "id": "recruiter_card",
+          "amount": 1
+        },
+        {
+          "type": "message",
+          "ru": "Добро пожаловать в церковь Спящей!",
+          "en": "Welcome to the Sleeper's church!"
+        }
+      ]
+    },
+    {
+      "hash": "c3bc2c58d1b33b73ada8f681dfbc47ce375d022d703dfbb90a536ecaae19c93d",
+      "title": {
+        "ru": "Приветственный пакет покровителя",
+        "en": "Welcome package for new patrons"
+      },
+      "start": "",
+      "expires": "",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 2500
+        },
+        {
+          "type": "item",
+          "id": "luck_seal",
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "id": "goddess_tear",
+          "amount": 1
+        },
+        {
+          "type": "fragments",
+          "amount": 2
+        },
+        {
+          "type": "curse_clear"
+        },
+        {
+          "type": "message",
+          "ru": "Добро пожаловать в ближний круг. Каждый месяц для вас — новый код.",
+          "en": "Welcome to the inner circle. Every month there is a new code for you."
+        }
+      ]
+    },
+    {
+      "hash": "ae53eff92a3969b97105c0535ef5996a9d0a60a917cb3f604177005e40916f24",
+      "title": {
+        "ru": "Ноябрьский дар",
+        "en": "November gift"
+      },
+      "start": "2026-11-01",
+      "expires": "2026-11-30",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 300
+        },
+        {
+          "type": "item",
+          "id": "recruiter_card",
+          "amount": 1
+        },
+        {
+          "type": "message",
+          "ru": "Хотите больше? Покровители на Patreon каждый месяц получают пакет щедрее.",
+          "en": "Want more? Patreon supporters get a bigger package every month."
+        }
+      ]
+    },
+    {
+      "hash": "052a31bbd571edc38c9dac93e0e2359844b4fa44732947c0aef8905cd8fa916b",
+      "title": {
+        "ru": "Пакет «Первый снег» (Patreon, ноябрь)",
+        "en": "\"First Snow\" package (Patreon, November)"
+      },
+      "start": "2026-11-01",
+      "expires": "2026-11-30",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 1500
+        },
+        {
+          "type": "item",
+          "id": "goddess_tear",
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "id": "holy_water",
+          "amount": 2
+        },
+        {
+          "type": "fragments",
+          "amount": 2,
+          "rarity": "Rare"
+        },
+        {
+          "type": "buff",
+          "id": "gain",
+          "value": 1.25,
+          "hours": 48
+        },
+        {
+          "type": "message",
+          "ru": "Спасибо, что поддерживаете игру! Новый код — в начале каждого месяца.",
+          "en": "Thank you for supporting the game! A new code arrives at the start of every month."
+        }
+      ]
+    },
+    {
+      "hash": "147b5abe3b9c929739b558d21626b21d57835ed7b315b20561373a0f98239633",
+      "title": {
+        "ru": "Декабрьский дар",
+        "en": "December gift"
+      },
+      "start": "2026-12-01",
+      "expires": "2026-12-31",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 350
+        },
+        {
+          "type": "item",
+          "id": "holy_water",
+          "amount": 1
+        },
+        {
+          "type": "message",
+          "ru": "Хотите больше? Покровители на Patreon каждый месяц получают пакет щедрее.",
+          "en": "Want more? Patreon supporters get a bigger package every month."
+        }
+      ]
+    },
+    {
+      "hash": "0dae6d242db2da16d46859eb8a9e83e8e4dec6ef004f728de4c48fd1fa18832d",
+      "title": {
+        "ru": "Пакет «Долгая ночь» (Patreon, декабрь)",
+        "en": "\"Long Night\" package (Patreon, December)"
+      },
+      "start": "2026-12-01",
+      "expires": "2026-12-31",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 2000
+        },
+        {
+          "type": "item",
+          "id": "luck_seal",
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "id": "recruiter_card",
+          "amount": 2
+        },
+        {
+          "type": "fragments",
+          "amount": 2,
+          "rarity": "Epic"
+        },
+        {
+          "type": "buff",
+          "id": "time",
+          "value": 1.2,
+          "hours": 48
+        },
+        {
+          "type": "message",
+          "ru": "Спасибо, что поддерживаете игру! Новый код — в начале каждого месяца.",
+          "en": "Thank you for supporting the game! A new code arrives at the start of every month."
+        }
+      ]
+    },
+    {
+      "hash": "ad3a1203a08802455900aaeaf68f0ed9ccf1d0723afbedc03d676250db7ea610",
+      "title": {
+        "ru": "Январский дар",
+        "en": "January gift"
+      },
+      "start": "2027-01-01",
+      "expires": "2027-01-31",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 300
+        },
+        {
+          "type": "item",
+          "id": "recruiter_card",
+          "amount": 1
+        },
+        {
+          "type": "message",
+          "ru": "Хотите больше? Покровители на Patreon каждый месяц получают пакет щедрее.",
+          "en": "Want more? Patreon supporters get a bigger package every month."
+        }
+      ]
+    },
+    {
+      "hash": "bcaf4d01eb265af3d0be8873ed88c492739b395a1bfcebe38e7c099e9f21e5f3",
+      "title": {
+        "ru": "Пакет «Новый обет» (Patreon, январь)",
+        "en": "\"New Vow\" package (Patreon, January)"
+      },
+      "start": "2027-01-01",
+      "expires": "2027-01-31",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 1800
+        },
+        {
+          "type": "item",
+          "id": "goddess_tear",
+          "amount": 2
+        },
+        {
+          "type": "relic",
+          "id": "rosary",
+          "amount": 1
+        },
+        {
+          "type": "fragments",
+          "amount": 2,
+          "rarity": "Rare"
+        },
+        {
+          "type": "buff",
+          "id": "rare",
+          "value": 1.5,
+          "hours": 48
+        },
+        {
+          "type": "message",
+          "ru": "Спасибо, что поддерживаете игру! Новый код — в начале каждого месяца.",
+          "en": "Thank you for supporting the game! A new code arrives at the start of every month."
+        }
+      ]
+    },
+    {
+      "hash": "a95cf938349be2a350e779a30ff6366641c2d44857ce0c84bcb43463a22a84c1",
+      "title": {
+        "ru": "Февральский дар",
+        "en": "February gift"
+      },
+      "start": "2027-02-01",
+      "expires": "2027-02-28",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 350
+        },
+        {
+          "type": "item",
+          "id": "holy_water",
+          "amount": 1
+        },
+        {
+          "type": "message",
+          "ru": "Хотите больше? Покровители на Patreon каждый месяц получают пакет щедрее.",
+          "en": "Want more? Patreon supporters get a bigger package every month."
+        }
+      ]
+    },
+    {
+      "hash": "766cc13305502b53d264d945f8e1ded13dbc30a2c9153e316553d2e233ccbaab",
+      "title": {
+        "ru": "Пакет «Алые обеты» (Patreon, февраль)",
+        "en": "\"Scarlet Vows\" package (Patreon, February)"
+      },
+      "start": "2027-02-01",
+      "expires": "2027-02-28",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 2000
+        },
+        {
+          "type": "item",
+          "id": "luck_seal",
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "id": "holy_water",
+          "amount": 3
+        },
+        {
+          "type": "fragments",
+          "amount": 3,
+          "rarity": "Rare"
+        },
+        {
+          "type": "buff",
+          "id": "price",
+          "value": 0.8,
+          "hours": 48
+        },
+        {
+          "type": "message",
+          "ru": "Спасибо, что поддерживаете игру! Новый код — в начале каждого месяца.",
+          "en": "Thank you for supporting the game! A new code arrives at the start of every month."
+        }
+      ]
+    },
+    {
+      "hash": "595138f74a442f0ed75d3ad47a8cc254f308a132d24b395b76619b3eb07da72a",
+      "title": {
+        "ru": "Мартовский дар",
+        "en": "March gift"
+      },
+      "start": "2027-03-01",
+      "expires": "2027-03-31",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 300
+        },
+        {
+          "type": "item",
+          "id": "recruiter_card",
+          "amount": 1
+        },
+        {
+          "type": "message",
+          "ru": "Хотите больше? Покровители на Patreon каждый месяц получают пакет щедрее.",
+          "en": "Want more? Patreon supporters get a bigger package every month."
+        }
+      ]
+    },
+    {
+      "hash": "3b519d114f372e78c2d836daf6cc663ef39851b1631a8fe15164000f2c8f6066",
+      "title": {
+        "ru": "Пакет «Пробуждение» (Patreon, март)",
+        "en": "\"Awakening\" package (Patreon, March)"
+      },
+      "start": "2027-03-01",
+      "expires": "2027-03-31",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 2200
+        },
+        {
+          "type": "item",
+          "id": "goddess_tear",
+          "amount": 1
+        },
+        {
+          "type": "relic",
+          "id": "sermon",
+          "amount": 1
+        },
+        {
+          "type": "fragments",
+          "amount": 2,
+          "rarity": "Epic"
+        },
+        {
+          "type": "buff",
+          "id": "income",
+          "value": 1.5,
+          "hours": 48
+        },
+        {
+          "type": "message",
+          "ru": "Спасибо, что поддерживаете игру! Новый код — в начале каждого месяца.",
+          "en": "Thank you for supporting the game! A new code arrives at the start of every month."
+        }
+      ]
+    },
+    {
+      "hash": "06db8b4977213019ba0113c95064f69e53e3a80514ab58fda1e34097a37e9b61",
+      "title": {
+        "ru": "Апрельский дар",
+        "en": "April gift"
+      },
+      "start": "2027-04-01",
+      "expires": "2027-04-30",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 400
+        },
+        {
+          "type": "item",
+          "id": "holy_water",
+          "amount": 1
+        },
+        {
+          "type": "message",
+          "ru": "Хотите больше? Покровители на Patreon каждый месяц получают пакет щедрее.",
+          "en": "Want more? Patreon supporters get a bigger package every month."
+        }
+      ]
+    },
+    {
+      "hash": "8006298f2b9031dd46ce3ca452eb5b84487fdd2ecce0b6f170c14674d436be85",
+      "title": {
+        "ru": "Пакет «Лунный сад» (Patreon, апрель)",
+        "en": "\"Moon Garden\" package (Patreon, April)"
+      },
+      "start": "2027-04-01",
+      "expires": "2027-04-30",
+      "builds": [],
+      "rewards": [
+        {
+          "type": "faith",
+          "amount": 2500
+        },
+        {
+          "type": "item",
+          "id": "luck_seal",
+          "amount": 1
+        },
+        {
+          "type": "item",
+          "id": "goddess_tear",
+          "amount": 1
+        },
+        {
+          "type": "fragments",
+          "amount": 3,
+          "rarity": "Rare"
+        },
+        {
+          "type": "buff",
+          "id": "gain",
+          "value": 1.3,
+          "hours": 48
+        },
+        {
+          "type": "message",
+          "ru": "Спасибо, что поддерживаете игру! Новый код — в начале каждого месяца.",
+          "en": "Thank you for supporting the game! A new code arrives at the start of every month."
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "black_friday_26",
+      "title": {
+        "ru": "Чёрная пятница у Сайласа",
+        "en": "Silas's Black Friday"
+      },
+      "description": {
+        "ru": "Вербовщик распродаёт «товар»: цены на кандидаток −25%, торг удаётся чаще.",
+        "en": "The Recruiter is clearing his stock: candidates cost 25% less and haggling succeeds more often."
+      },
+      "start": "2026-11-27",
+      "end": "2026-11-30",
+      "modifiers": {
+        "price": 0.75,
+        "haggle": 1.25
+      }
+    },
+    {
+      "id": "solstice_26",
+      "title": {
+        "ru": "Самая долгая ночь",
+        "en": "The Longest Night"
+      },
+      "description": {
+        "ru": "Зимнее солнцестояние: Спящая видит самые глубокие сны — ритуалы длятся дольше, шкала растёт быстрее.",
+        "en": "Winter solstice: the Sleeper dreams her deepest dreams — rituals last longer and the meter fills faster."
+      },
+      "start": "2026-12-19",
+      "end": "2026-12-22",
+      "modifiers": {
+        "time": 1.2,
+        "gain": 1.2
+      }
+    },
+    {
+      "id": "new_year_27",
+      "title": {
+        "ru": "Новогодние обеты",
+        "en": "New Year Vows"
+      },
+      "description": {
+        "ru": "Паства щедра на праздники: доход вечером ×1.5, редкие кандидатки приходят чаще.",
+        "en": "The flock is generous for the holidays: evening income ×1.5, rare candidates come more often."
+      },
+      "start": "2026-12-31",
+      "end": "2027-01-03",
+      "modifiers": {
+        "income": 1.5,
+        "rare": 1.3
+      }
+    },
+    {
+      "id": "valentine_27",
+      "title": {
+        "ru": "Алая неделя",
+        "en": "Scarlet Week"
+      },
+      "description": {
+        "ru": "В неделю влюблённых сердца податливы: шкала Экстаза растёт на 30% быстрее и почти не убывает.",
+        "en": "On lovers' week hearts are pliant: the Ecstasy meter fills 30% faster and barely drains."
+      },
+      "start": "2027-02-12",
+      "end": "2027-02-15",
+      "modifiers": {
+        "gain": 1.3,
+        "decay": 0.6
+      }
+    },
+    {
+      "id": "equinox_27",
+      "title": {
+        "ru": "Равноденствие",
+        "en": "Equinox"
+      },
+      "description": {
+        "ru": "Ночь равна дню: печати горят дольше, платформа в «Разрушении оков» шире.",
+        "en": "Night equals day: the seals glow longer and the platform in \"Breaking the Chains\" is wider."
+      },
+      "start": "2027-03-19",
+      "end": "2027-03-22",
+      "modifiers": {
+        "sigils": 1.3,
+        "paddle": 1.2
+      }
+    },
+    {
+      "id": "walpurgis_27",
+      "title": {
+        "ru": "Вальпургиева ночь",
+        "en": "Walpurgis Night"
+      },
+      "description": {
+        "ru": "Ведьмы на шабаше, Сайлас в ударе: редкие кандидатки ×2, цены −15%.",
+        "en": "The witches are at their sabbath and Silas is on fire: rare candidates ×2, prices −15%."
+      },
+      "start": "2027-04-28",
+      "end": "2027-05-01",
+      "modifiers": {
+        "rare": 2.0,
+        "price": 0.85
+      }
+    }
+  ]
+}
