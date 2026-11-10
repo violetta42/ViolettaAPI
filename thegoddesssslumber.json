@@ -35,7 +35,9 @@
       },
       "start": "",
       "expires": "",
-      "builds": [],
+      "builds": [
+        "full"
+      ],
       "rewards": [
         {
           "type": "faith",
@@ -99,7 +101,9 @@
       },
       "start": "2026-11-01",
       "expires": "2026-11-30",
-      "builds": [],
+      "builds": [
+        "full"
+      ],
       "rewards": [
         {
           "type": "faith",
@@ -167,7 +171,9 @@
       },
       "start": "2026-12-01",
       "expires": "2026-12-31",
-      "builds": [],
+      "builds": [
+        "full"
+      ],
       "rewards": [
         {
           "type": "faith",
@@ -235,7 +241,9 @@
       },
       "start": "2027-01-01",
       "expires": "2027-01-31",
-      "builds": [],
+      "builds": [
+        "full"
+      ],
       "rewards": [
         {
           "type": "faith",
@@ -303,7 +311,9 @@
       },
       "start": "2027-02-01",
       "expires": "2027-02-28",
-      "builds": [],
+      "builds": [
+        "full"
+      ],
       "rewards": [
         {
           "type": "faith",
@@ -371,7 +381,9 @@
       },
       "start": "2027-03-01",
       "expires": "2027-03-31",
-      "builds": [],
+      "builds": [
+        "full"
+      ],
       "rewards": [
         {
           "type": "faith",
@@ -439,7 +451,9 @@
       },
       "start": "2027-04-01",
       "expires": "2027-04-30",
-      "builds": [],
+      "builds": [
+        "full"
+      ],
       "rewards": [
         {
           "type": "faith",
